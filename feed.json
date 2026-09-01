@@ -1,0 +1,10 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "rcsail.boats",
+	"icon": "https://micro.blog/rcsailboats/avatar.jpg",
+	"home_page_url": "https://rcsail.boats/",
+	"feed_url": "https://rcsail.boats/feed.json",
+	"items": [
+		
+	]
+}
