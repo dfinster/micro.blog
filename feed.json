@@ -1,24 +1,72 @@
 {
 	"version": "https://jsonfeed.org/version/1",
-	"title": "rcsail.boats",
+	"title": "Captain Wood",
 	"icon": "https://micro.blog/rcsailboats/avatar.jpg",
 	"home_page_url": "https://rcsail.boats/",
 	"feed_url": "https://rcsail.boats/feed.json",
 	"items": [
 		
 			{
+				"id": "http://rcsailboats.micro.blog/2026/09/03/this-is-a-cry-for/",
+				
+				"content_html": "<p>This is a cry for help. Personalized plates aren’t free.</p>\n<img src=\"uploads/2026/home-sik.jpg\" width=\"463\" height=\"600\" alt=\"\">\n",
+				"content_text": "This is a cry for help. Personalized plates aren’t free. \n\n<img src=\"uploads/2026/home-sik.jpg\" width=\"463\" height=\"600\" alt=\"\">\n",
+				"date_published": "2026-09-03T08:32:34-04:00",
+				"url": "https://rcsail.boats/2026/09/03/this-is-a-cry-for/"
+			},
+			{
+				"id": "http://rcsailboats.micro.blog/2026/09/03/stars/",
+				
+				"content_html": "<p>57 Stars</p>\n<img src=\"uploads/2026/57-stars.jpg\" width=\"600\" height=\"590\" alt=\"\">\n",
+				"content_text": "57 Stars\n\n<img src=\"uploads/2026/57-stars.jpg\" width=\"600\" height=\"590\" alt=\"\">\n",
+				"date_published": "2026-09-03T08:21:21-04:00",
+				"url": "https://rcsail.boats/2026/09/03/stars/"
+			},
+			{
+				"id": "http://rcsailboats.micro.blog/2026/09/03/needs-more-duct-tape/",
+				
+				"content_html": "<p>Needs more duct tape</p>\n<img src=\"uploads/2026/0f6fbc623a.png\" width=\"422\" height=\"600\" alt=\"\">\n",
+				"content_text": "Needs more duct tape\n\n<img src=\"uploads/2026/0f6fbc623a.png\" width=\"422\" height=\"600\" alt=\"\">\n",
+				"date_published": "2026-09-03T08:08:14-04:00",
+				"url": "https://rcsail.boats/2026/09/03/needs-more-duct-tape/"
+			},
+			{
+				"id": "http://rcsailboats.micro.blog/2026/09/03/caption-contest/",
+				
+				"content_html": "<p>Caption contest</p>\n<img src=\"uploads/2026/confederate-christian-.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Caption contest\n\n<img src=\"uploads/2026/confederate-christian-.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2026-09-03T07:35:23-04:00",
+				"url": "https://rcsail.boats/2026/09/03/caption-contest/"
+			},
+			{
+				"id": "http://rcsailboats.micro.blog/2026/09/03/support-independent-radio/",
+				
+				"content_html": "<p>Support independent radio</p>\n<img src=\"uploads/2026/knon-90.3.png\" width=\"375\" height=\"600\" alt=\"\">\n",
+				"content_text": "Support independent radio \n\n<img src=\"uploads/2026/knon-90.3.png\" width=\"375\" height=\"600\" alt=\"\">\n",
+				"date_published": "2026-09-03T07:28:12-04:00",
+				"url": "https://rcsail.boats/2026/09/03/support-independent-radio/"
+			},
+			{
+				"id": "http://rcsailboats.micro.blog/2026/09/02/kubernetes-cycle-of-grief/",
+				
+				"content_html": "<p>Kubernetes Cycle of Grief</p>\n<img src=\"https://cdn.uploads.micro.blog/381660/2026/img-1088.png\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Kubernetes Cycle of Grief\n\n<img src=\"https://cdn.uploads.micro.blog/381660/2026/img-1088.png\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2026-09-02T18:49:36-04:00",
+				"url": "https://rcsail.boats/2026/09/02/kubernetes-cycle-of-grief/"
+			},
+			{
 				"id": "http://rcsailboats.micro.blog/2026/09/02/extremely-loud-and-splashes-a/",
 				
-				"content_html": "<p>EXTREMELY LOUD\nAND SPLASHES A BIT</p>\n<img src=\"uploads/2026/flush-is-very-loud.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
-				"content_text": "EXTREMELY LOUD \nAND SPLASHES A BIT\n\n<img src=\"uploads/2026/flush-is-very-loud.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>EXTREMELY LOUD\nAND SPLASHES A BIT</p>\n<img src=\"https://cdn.uploads.micro.blog/381660/2026/flush-is-very-loud.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "EXTREMELY LOUD \nAND SPLASHES A BIT\n\n<img src=\"https://cdn.uploads.micro.blog/381660/2026/flush-is-very-loud.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-09-02T16:21:57-04:00",
 				"url": "https://rcsail.boats/2026/09/02/extremely-loud-and-splashes-a/"
 			},
 			{
 				"id": "http://rcsailboats.micro.blog/2026/09/01/remember-to-buy-more-shit/",
 				
-				"content_html": "<p>Remember to buy more shit if you&rsquo;re sad.</p>\n<img src=\"uploads/2026/img-4037.jpg\" width=\"337\" height=\"600\" alt=\"\">\n",
-				"content_text": "Remember to buy more shit if you're sad.\n\n<img src=\"uploads/2026/img-4037.jpg\" width=\"337\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>Remember to buy more shit if you&rsquo;re sad.</p>\n<img src=\"https://cdn.uploads.micro.blog/381660/2026/img-4037.jpg\" width=\"337\" height=\"600\" alt=\"\">\n",
+				"content_text": "Remember to buy more shit if you're sad.\n\n<img src=\"https://cdn.uploads.micro.blog/381660/2026/img-4037.jpg\" width=\"337\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-09-01T10:44:41-04:00",
 				"url": "https://rcsail.boats/2026/09/01/remember-to-buy-more-shit/"
 			}
