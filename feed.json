@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://rcsailboats.micro.blog/2026/09/13/online-shopping-is-wild-when/",
+				
+				"content_html": "<p>Online shopping is wild when</p>\n<p>“XXL socks for men 13-15, wide feet”</p>\n<p>becomes</p>\n<p>“XXL socks for men 13-15 feet wide”</p>\n",
+				"content_text": "Online shopping is wild when \n\n“XXL socks for men 13-15, wide feet” \n\nbecomes \n\n“XXL socks for men 13-15 feet wide”\n",
+				"date_published": "2026-09-13T04:14:06-04:00",
+				"url": "https://rcsail.boats/2026/09/13/online-shopping-is-wild-when/"
+			},
+			{
 				"id": "http://rcsailboats.micro.blog/2026/09/12/with-apologies-to-jeff-foxworthy/",
 				
 				"content_html": "<p>With apologies to Jeff Foxworthy</p>\n<p>If you read the copyright page when opening a new book [pause for laugh]  you might have had a rough Gen X childhood.</p>\n",
@@ -41,8 +49,8 @@
 			{
 				"id": "http://rcsailboats.micro.blog/2026/09/03/stars/",
 				
-				"content_html": "<p>57 Stars</p>\n<img src=\"uploads/2026/57-stars.jpg\" width=\"600\" height=\"590\" alt=\"\">\n",
-				"content_text": "57 Stars\n\n<img src=\"uploads/2026/57-stars.jpg\" width=\"600\" height=\"590\" alt=\"\">\n",
+				"content_html": "<p>57 Stars</p>\n<img src=\"https://cdn.uploads.micro.blog/381660/2026/57-stars.jpg\" width=\"600\" height=\"590\" alt=\"\">\n",
+				"content_text": "57 Stars\n\n<img src=\"https://cdn.uploads.micro.blog/381660/2026/57-stars.jpg\" width=\"600\" height=\"590\" alt=\"\">\n",
 				"date_published": "2026-09-03T08:21:21-04:00",
 				"url": "https://rcsail.boats/2026/09/03/stars/"
 			},
